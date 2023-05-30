@@ -1,0 +1,10 @@
+{
+  "name": "pokedex-next-pwa",
+  "short_name": "poke-pwa",
+  "theme_color": " #FF6868",
+  "background_color": "#1E1E1E",
+  "display": "browser",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}

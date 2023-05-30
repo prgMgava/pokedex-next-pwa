@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       Pokedex
+      {/* TODO: genarate favicons, and update manifest.json */}
     </>
   );
 }
