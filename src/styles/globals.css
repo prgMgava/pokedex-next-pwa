@@ -1,70 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
-  --bg-light: #f9f9f9;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
   background: #efefef !important;
   font-size: 14px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-family: "Roboto Slab", sans-serif;
-  font-size: 14px;
-}
-
-div {
-  font-size: 14px;
-}
-
-.font-title {
-  font-family: "Roboto Slab", sans-serif;
-}
-
-.fs-7 {
-  font-size: 14px;
-}
-
-.fs-8 {
-  font-size: 12px;
-}
-
-.custom-list li {
-  background-color: var(--bg-light);
-  margin-bottom: 4px;
-  padding: 8px;
-}
-
-.custom-list li:hover {
-  filter: brightness(0.9);
-  color: #000;
-}
-
-.container-icon {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
-
-.card,
-.accordion-item,
-.accordion-body,
-.accordion-collapse,
-.accordion-header,
-.accordion-button,
-.collapse,
-.show,
-.accordion-item:first-of-type:focus,
-.accordion-button:focus {
-  border: none !important;
-  border-radius: 0% !important;
-}
-
-/* CUSTOM FORM COMPONENTS */
-.form-control {
-  border-radius: 0% !important;
 }
