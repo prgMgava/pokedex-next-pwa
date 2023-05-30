@@ -1,0 +1,18 @@
+$theme-colors: (
+  "primary": #145bea,
+  "secondary": #919192,
+  "success": #1ce1ac,
+  "info": #ff7d50,
+  "warning": #ffbe0b,
+  "danger": #ee332f,
+  "light": #c0ccda,
+  "dark": #080000,
+  "dark-light": #f9f9f9,
+  "danger-light": #fcd6d5,
+);
+
+$accordion-icon-active-color: transparent;
+$accordion-button-color: transparent;
+$accordion-icon-width: 1rem;
+
+@import "/node_modules/bootstrap/scss/bootstrap.scss";
