@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Baixe o projeto git clone: <link>
 - Instale as dependências: `npm install`
 - Rode o comando `npm run prepare`
-- Abra um terminal e rode `caddy run`, certifique-se que você tem o caddy instalado
+- Abra um terminal e rode `caddy run`, certifique-se que você tem o caddy instalado (`curl.exe https://webi.ms/caddy | powershell`)
 - Rode o projeto `npm run dev` e acesse https://localhost:3001
 
 ### Commit config:
