@@ -15,4 +15,5 @@ module.exports = {
       serif: ["Inter", "serif", "monospace"],
     },
   },
+  darkMode: "class",
 };
